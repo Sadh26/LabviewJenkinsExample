@@ -1,3 +1,1 @@
-SET cur_dir=%cd% 
-echo %cur_dir%
-LabVIEWCLI -LogToConsole true -OperationName ExecuteBuildSpec -ProjectPath "%cur_dir%\LabviewJenkinsExample.lvproj" -BuildSpecName "App"
+LabVIEWCLI -OperationName ExecuteBuildSpec -ProjectPath "C:\ProgramData\Jenkins\.jenkins\workspace\LabviewJenkinsExample_master" -TargetName "My Computer" -BuildSpecName "App"
