@@ -10,7 +10,7 @@ pipeline {
 
     stage('Build') {
       steps {
-        git 'https://github.com/Sadh26/LabviewJenkinsExample.git'
+        bat '.\\\\Scripts\\\\Build.bat'
       }
     }
 
