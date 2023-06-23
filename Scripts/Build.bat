@@ -1,1 +1,1 @@
-LabVIEWCLI -OperationName ExecuteBuildSpec -ProjectPath "C:\ProgramData\Jenkins\.jenkins\workspace\LabviewJenkinsExample_master" -TargetName "My Computer" -BuildSpecName "App"
+LabVIEWCLI -OperationName ExecuteBuildSpec -ProjectPath "C:\Users\sadhana.suresh\Documents\GIT\YouTube_Trial\LabviewJenkinsExample\LabviewJenkinsExample.lvproj" -TargetName "My Computer" -BuildSpecName "App" 
